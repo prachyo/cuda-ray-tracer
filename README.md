@@ -9,3 +9,8 @@ Running
 This project assumes some familiarity with Nvidia's CUDA. To run the program, you can simply use the Makefile to create an executable using `make cudart` and then the output image using `make out.ppm`.
 
 [1]: https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+Output
+-------
+
+![Final output](https://raytracing.github.io/images/img-1.21-book1-final.jpg)
