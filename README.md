@@ -1,7 +1,7 @@
 cuda-ray-tracer
 ===
 
-This is a very simple ray tracing project based off Peter Shirley's [Ray Tracing in One Weekend][1] project. The original project has been updated so that the ray tracer runs much fast on the GPU using CUDA.
+This is a very simple ray tracing project based off Peter Shirley's [Ray Tracing in One Weekend][1] project. The original project has been updated so that the ray tracer runs much faster on the GPU using CUDA.
 
 Running
 -------
